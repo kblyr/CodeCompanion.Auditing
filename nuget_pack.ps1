@@ -1,0 +1,1 @@
+dotnet pack src/Auditing --configuration Release --output ../.nuget_releases/
